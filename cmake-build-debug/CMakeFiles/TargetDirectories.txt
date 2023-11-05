@@ -1,0 +1,3 @@
+/Users/kpa/CLionProjects/Maike-opengl/cmake-build-debug/CMakeFiles/Maike_opengl.dir
+/Users/kpa/CLionProjects/Maike-opengl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kpa/CLionProjects/Maike-opengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
